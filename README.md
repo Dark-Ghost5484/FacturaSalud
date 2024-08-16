@@ -1,1 +1,2 @@
 # FacturaSalud
+“Una solución integral para la facturación médica diseñada específicamente para profesionales y consultorios médicos. Puedes automatizar el proceso de facturación, gestionar los procedimientos realizados y calcular los montos a pagar. Nuestra interfaz intuitiva facilita la creación de facturas precisas y detalladas, lo que optimiza los ingresos y garantiza una práctica médica sostenible. Desde medicamentos hasta procedimientos, FacturaSalud es tu aliado confiable en la administración financiera de la salud.”
